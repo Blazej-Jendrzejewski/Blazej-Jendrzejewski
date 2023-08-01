@@ -1,6 +1,6 @@
 ## Hi, I'm Błażej! 👋
 
-I'm a **Junior Java Developer** with a deep passion for creating innovative and efficient solutions. 
+I'm a **Java Developer** with a deep passion for creating innovative and efficient solutions. 
 
 My interdisciplinary knowledge, including a Ph.D. in economics, allows me to create applications that are not only technically advanced but also meet specific business needs. 💡
 
